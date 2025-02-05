@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Fullstack and delving deeper into cloud computing and studying to obtain AWS certification.</p>
+<p align="left">I'm Fullstack and delving deeper into cloud computing and studying AWS certification.</p>
 
 ###
 
