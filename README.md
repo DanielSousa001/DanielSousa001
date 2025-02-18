@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Fullstack and delving deeper into cloud computing, studying AWS certification.</p>
+<p align="left">Devenvolvedor full stack e java.</p>
 
 ###
 
@@ -38,14 +38,3 @@
 
 ###
 
-<h2 align="left">📫 Social Media</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/dsoulc/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
