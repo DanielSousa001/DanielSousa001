@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Devenvolvedor full stack e java.</p>
+<p align="left">Devenvolvedor full stack.</p>
 
 ###
 
