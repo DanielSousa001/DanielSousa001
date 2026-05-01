@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Devenvolvedor/Analista de Dados/Machine Learning.</p>
+<p align="left">Devenvolvedor/Cientista de Dados/Machine Learning.</p>
 
 ###
 
