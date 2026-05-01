@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Devenvolvedor Dados/power bi/python.</p>
+<p align="left">Devenvolvedor/Analista de Dados.</p>
 
 ###
 
