@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Devenvolvedor full stack.</p>
+<p align="left">Devenvolvedor Dados/power bi/python.</p>
 
 ###
 
